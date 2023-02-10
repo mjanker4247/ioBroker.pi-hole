@@ -32,6 +32,17 @@ Help or hints are welcome.
 
 ## Changelog
 
+<!--
+  Placeholder for the next version (at the beginning of the line):
+  ## **WORK IN PROGRESS**
+-->
+
+## **WORK IN PROGRESS**
+
+-   Update for js-controller > 3
+
+## v1.3.5 (2023-02-10)
+
 ### 1.3.4
 
 * (unltdnetworx) disabled "getQueryTypes" for creating lots of spam entries
